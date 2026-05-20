@@ -9,6 +9,7 @@
     <version>5.1.0-SNAPSHOT</version>
   </parent>
 
+  <name>vertx-service-discovery-backend-consul</name>
   <artifactId>vertx-service-discovery-backend-consul</artifactId>
 
   <dependencies>

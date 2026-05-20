@@ -25,6 +25,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
+  <name>vertx-service-discovery-bridge-kubernetes</name>
   <artifactId>vertx-service-discovery-bridge-kubernetes</artifactId>
 
   <dependencies>
