@@ -144,4 +144,3 @@ public class DockerService {
     return labels != null && "true".equalsIgnoreCase(labels.get(key));
   }
 }
-

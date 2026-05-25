@@ -16,7 +16,6 @@
 
 package io.vertx.servicediscovery.consul;
 
-import io.vertx.core.Future;
 import io.vertx.core.Promise;
 import io.vertx.servicediscovery.Record;
 import io.vertx.servicediscovery.spi.ServicePublisher;

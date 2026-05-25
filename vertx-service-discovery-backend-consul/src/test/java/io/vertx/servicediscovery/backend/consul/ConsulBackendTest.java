@@ -4,9 +4,7 @@ import io.vertx.ext.consul.ConsulClientOptions;
 import io.vertx.servicediscovery.spi.ServiceDiscoveryBackend;
 import io.vertx.servicediscovery.spi.ServiceDiscoveryBackendTest;
 import org.junit.After;
-import org.junit.Before;
 import org.testcontainers.containers.GenericContainer;
-import org.testcontainers.containers.wait.strategy.Wait;
 import org.testcontainers.utility.DockerImageName;
 
 import java.util.concurrent.CountDownLatch;

@@ -508,4 +508,3 @@ public class DiscoveryImpl implements ServiceDiscovery, ServicePublisher {
     }
   }
 }
-

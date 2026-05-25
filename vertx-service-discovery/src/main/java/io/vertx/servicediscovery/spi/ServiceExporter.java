@@ -1,7 +1,6 @@
 package io.vertx.servicediscovery.spi;
 
 import io.vertx.codegen.annotations.VertxGen;
-import io.vertx.core.Future;
 import io.vertx.core.Handler;
 import io.vertx.core.Promise;
 import io.vertx.core.Vertx;

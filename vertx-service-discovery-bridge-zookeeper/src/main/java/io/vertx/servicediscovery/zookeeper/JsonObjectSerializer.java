@@ -9,7 +9,6 @@ import org.apache.curator.x.discovery.ServiceType;
 import org.apache.curator.x.discovery.UriSpec;
 import org.apache.curator.x.discovery.details.InstanceSerializer;
 
-import java.io.ByteArrayOutputStream;
 
 /**
  * @author <a href="http://escoffier.me">Clement Escoffier</a>
@@ -65,4 +64,3 @@ public class JsonObjectSerializer implements InstanceSerializer<JsonObject> {
     return builder.build();
   }
 }
-
